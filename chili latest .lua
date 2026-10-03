@@ -1,7 +1,3 @@
--- Deobfuscated by ccjvwsod on Discord
--- Detected obfuscation: Luraph v15
--- Local names are inferred from use (the original names are not in the bytecode)
-
 local fn, v, v2, defaultTab, Players, RunService, ReplicatedStorage, CoreGui, UserInputService, localPlayer
 local networking, fn2, tbl, v3, fn3, fn4, tbl2, fn5, fn6, tbl3
 local tbl4, fn7, tbl5, v4, v5, espSection, tbl6, n, tbl7, tbl8
